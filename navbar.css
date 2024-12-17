@@ -69,6 +69,17 @@
 }
 
 /* Fonts */
+
+H2{
+  font-size: 30px;
+  font-family: Helvetica;
+}
+
+H4{
+  font-size: 17px;
+  font-family: Helvetica;
+}
+
 p {
   font-size: 20px;
   font-family: Helvetica;
@@ -76,11 +87,6 @@ p {
 
 ul li {
   font-size: 20px;
-  font-family: Helvetica;
-}
-
-H2{
-  font-size: 30px;
   font-family: Helvetica;
 }
 
