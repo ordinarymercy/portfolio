@@ -74,6 +74,11 @@ p {
   font-family: Helvetica;
 }
 
+ul li {
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
 H2{
   font-size: 30px;
   font-family: Arial, Helvetica;
