@@ -107,3 +107,7 @@ H3{
   tr{ 
     padding: 12px; 
   } 
+
+  .write-up{
+    display: flex;
+  }
