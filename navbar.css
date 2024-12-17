@@ -67,3 +67,32 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+/* Fonts */
+p {
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
+H2{
+  font-size: 30px;
+  font-family: Arial, Helvetica;
+}
+
+H3{
+  font-size: 30px;
+  font-family: Arial, Helvetica;
+}
+
+/* Cellspacing */
+  th{ 
+    padding: 12px; 
+  } 
+
+  td{ 
+    padding: 12px; 
+  } 
+
+  tr{ 
+    padding: 12px; 
+  } 
