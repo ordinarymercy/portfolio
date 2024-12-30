@@ -70,6 +70,11 @@
 
 /* Fonts */
 
+H1{
+  font-size: 40px;
+  font-family: Helvetica;
+}
+
 H2{
   font-size: 30px;
   font-family: Helvetica;
@@ -83,6 +88,9 @@ H4{
 p {
   font-size: 20px;
   font-family: Helvetica;
+  max-width: 80%;
+  <!--height: 100px;-->
+  background-color: white;
 }
 
 ul li {
@@ -111,3 +119,48 @@ H3{
   .write-up{
     display: flex;
   }
+
+
+  <!--
+  dl {
+    border: 0px double #ccc;
+      max-width: 80%;
+    height: 100%;padding: 0em;
+    background-color: white;
+  }
+  dt {
+    float: left;
+    clear: left;
+    text-align: left;
+    font-weight: bold;
+    color: black
+    max-width: 80%;
+    height: 100%;
+    background-color: white;
+    font-size: 20px;
+    font-family: Helvetica;
+    background-color: white;
+  }
+
+  dt::after {
+    content: ":";
+    max-width: 80%;
+    height: 100%;
+    background-color: white;
+  }
+
+  dd {
+    margin: 0 0 0 260px;
+    padding: 150 300 30em 50;
+    max-width: 80%;
+    height: 100%;
+  background-color: white;
+  font-size: 20px;
+  font-family: Helvetica;
+  border-bottom: 20px solid White;
+  }
+}
+-->
+
+
+
